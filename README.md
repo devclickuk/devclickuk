@@ -1,4 +1,5 @@
-### 👋 Hello, I'm Dave, a dedicated software developer hailing from Cheshire, United Kingdom, boasting a decade of experience in the realm of software development. My journey as the Vice President of Global Development has seen me at the helm of a multitude of transformative projects, guiding them from inception to full deployment. Throughout this journey, I've remained hands-on, personally overseeing and coding every facet of these ventures.
+## 👋 Hello, I'm Dave, 
+Im a dedicated software developer hailing from Cheshire, United Kingdom, boasting a decade of experience in the realm of software development. My journey as the Vice President of Global Development has seen me at the helm of a multitude of transformative projects, guiding them from inception to full deployment. Throughout this journey, I've remained hands-on, personally overseeing and coding every facet of these ventures.
 
 ## 🚀 My Expertise:
 - JavaScript: From frontend to backend, I've mastered the art of crafting interactive and efficient web applications.
