@@ -28,6 +28,11 @@ This is a simple calculator app created with React. It allows you to perform bas
 
 [Demo](https://devclickuk.github.io/calculator)
 
+### Guess The Number
+
+This is a simple and fun game where players try to guess a randomly generated number within a certain range.
+
+[Demo](https://devclickuk.github.io/guess-the-number)
 
 ## 🌟 Let's connect 
 Let's connect and collaborate on exciting projects, or feel free to reach out for tech discussions, advice, or simply to say hello!
