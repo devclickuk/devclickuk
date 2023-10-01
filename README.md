@@ -13,6 +13,22 @@ Im a dedicated software developer hailing from Cheshire, United Kingdom, boastin
 ## 🌍 My journey
 In the world of tech has taken me to places and challenges I never thought possible. I'm constantly exploring new technologies and striving for innovation.
 
+## Demo Applications
+
+### Todos
+
+This is a simple React Todo app built using Redux and Redux Toolkit. It allows you to add, delete, and toggle the completion status of tasks. The state management is handled efficiently using Redux Toolkit's createSlice feature.
+
+[Demo](https://devclickuk.github.io/todos)
+
+
+### Calculator
+
+This is a simple calculator app created with React. It allows you to perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+
+[Demo](https://devclickuk.github.io/calculator)
+
+
 ## 🌟 Let's connect 
 Let's connect and collaborate on exciting projects, or feel free to reach out for tech discussions, advice, or simply to say hello!
 
