@@ -7,6 +7,7 @@
 - PHP: A language I've used for crafting server-side solutions that power various web applications.
 - HTML & CSS: I consider them my canvas and paint, ensuring the web is not just functional but also beautiful.
 - AWS: Proficient in leveraging the full potential of Amazon Web Services for secure and scalable cloud solutions.
+- Azure DevOps: I'm well-versed in Azure DevOps, streamlining software development and delivery processes to ensure efficient project management and collaboration.
 
 ## 🌍 My journey
 In the world of tech has taken me to places and challenges I never thought possible. I'm constantly exploring new technologies and striving for innovation.
